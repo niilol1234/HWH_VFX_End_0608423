@@ -27,25 +27,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614653}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614667}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614670}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614673}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614679}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614664}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614674}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614675}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614610}
@@ -58,9 +40,6 @@ MonoBehaviour:
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614684}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614687}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614707}
@@ -94,10 +73,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 723
+    x: 0
     y: -266
-    width: 1640
-    height: 2571
+    width: 2338
+    height: 2526
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
