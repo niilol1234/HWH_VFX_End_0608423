@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VFX_End_0608423.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
